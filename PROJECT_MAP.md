@@ -18,13 +18,12 @@
 
 ## Models
 
-- [BoxingCard.kt](https://github.com/Zaq-droid/RingVault/blob/main/ringvault/model/BoxingCard.kt)
-- [OwnedCard.kt](https://github.com/Zaq-droid/RingVault/blob/main/ringvault/model/OwnedCard.kt)
-- [CardStack.kt](https://github.com/Zaq-droid/RingVault/blob/main/ringvault/model/CardStack.kt)
+- [CardModels.kt](https://github.com/Zaq-droid/RingVault/blob/main/ringvault/model/CardModels.kt)
+- [SaveModels.kt](https://github.com/Zaq-droid/RingVault/blob/main/ringvault/model/SaveModels.kt)
 
 ## UI
 
 - [VaultScreen.kt](https://github.com/Zaq-droid/RingVault/blob/main/ringvault/ui/VaultScreen.kt)
 - [CardComponents.kt](https://github.com/Zaq-droid/RingVault/blob/main/ringvault/ui/CardComponents.kt)
 - [CollectionScreen.kt](https://github.com/Zaq-droid/RingVault/blob/main/ringvault/ui/CollectionScreen.kt)
-- [PackOpeningScreen.kt](https://github.com/Zaq-droid/RingVault/blob/main/ringvault/ui/PackOpeningScreen.kt)
+- [Dialogs.kt](https://github.com/Zaq-droid/RingVault/blob/main/ringvault/ui/Dialogs.kt)
