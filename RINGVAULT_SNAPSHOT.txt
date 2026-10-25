@@ -1,0 +1,175 @@
+RING VAULT — FULL PROJECT SNAPSHOT
+Updated: 2026-10-25
+Purpose: Complete current source snapshot for AI-assisted development.
+Do not delete file boundaries or file paths.
+
+============================================================
+FILE: ringvault/MainActivity.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF MainActivity.kt HERE]
+
+
+============================================================
+FILE: ringvault/model/CardModels.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF CardModels.kt HERE]
+
+
+============================================================
+FILE: ringvault/model/SaveModels.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF SaveModels.kt HERE]
+
+
+============================================================
+FILE: ringvault/game/PackOpening.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF PackOpening.kt HERE]
+
+
+============================================================
+FILE: ringvault/game/CardValuation.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF CardValuation.kt HERE]
+
+
+============================================================
+FILE: ringvault/game/GradingEngine.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF GradingEngine.kt HERE]
+
+
+============================================================
+FILE: ringvault/game/CollectionStacks.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF CollectionStacks.kt HERE]
+
+
+============================================================
+FILE: ringvault/data/SeriesOneCatalog.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF SeriesOneCatalog.kt HERE]
+
+
+============================================================
+FILE: ringvault/data/GameSaveRepository.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF GameSaveRepository.kt HERE]
+
+
+============================================================
+FILE: ringvault/ui/VaultScreen.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF VaultScreen.kt HERE]
+
+
+============================================================
+FILE: ringvault/ui/SettingsScreen.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF SettingsScreen.kt HERE]
+
+
+============================================================
+FILE: ringvault/ui/SaveSlotsScreen.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF SaveSlotsScreen.kt HERE]
+
+
+============================================================
+FILE: ringvault/ui/RingVaultViewModel.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF RingVaultViewModel.kt HERE]
+
+
+============================================================
+FILE: ringvault/ui/RingVaultColors.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF RingVaultColors.kt HERE]
+
+
+============================================================
+FILE: ringvault/ui/RingVaultApp.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF RingVaultApp.kt HERE]
+
+
+============================================================
+FILE: ringvault/ui/HomeScreen.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF HomeScreen.kt HERE]
+
+
+============================================================
+FILE: ringvault/ui/Formatters.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF Formatters.kt HERE]
+
+
+============================================================
+FILE: ringvault/ui/Dialogs.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF Dialogs.kt HERE]
+
+
+============================================================
+FILE: ringvault/ui/CollectionScreen.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF CollectionScreen.kt HERE]
+
+
+============================================================
+FILE: ringvault/ui/CardComponents.kt
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS OF CardComponents.kt HERE]
+
+
+============================================================
+PROJECT CONFIGURATION / OTHER REQUIRED FILES
+============================================================
+
+============================================================
+FILE: app/build.gradle.kts
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS HERE]
+
+
+============================================================
+FILE: build.gradle.kts
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS HERE]
+
+
+============================================================
+FILE: settings.gradle.kts
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS HERE]
+
+
+============================================================
+FILE: app/src/main/AndroidManifest.xml
+============================================================
+
+[PASTE THE ENTIRE CURRENT CONTENTS HERE]
